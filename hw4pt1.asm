@@ -1,4 +1,4 @@
-;CMPE 102
+;CMPE 102, Lab Week-5
 ;Problem 1: Write a program to copy an array of type byte and size 5 into another array of the same size and type.
 ;Group members: Sofia Silva,enter name, enter name
 ;Source Code
