@@ -18,7 +18,7 @@ loop1:
 	mov ax,[esi]
 	mov [edi],ax
 	add esi, 2
-  add edi, 2
+  	add edi, 2
 	dec ecx
 	jnz loop1
 	INVOKE ExitProcess,0
